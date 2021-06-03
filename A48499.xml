@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dangerous condition of the United provinces prognosticated and plainly demonstrated, by Mr. William Lilly, in his observations of that comet which appeared in the year of our Lord, 1652. And published in his annual predictions in the year 1654, &amp;c. Together with some hints, and touches, of the most inhumane and unparaleld crueltyes committed by the Dutch upon our English-men at Amboyna, Polaroone, and Lantore in the East-Indies. With several proofs of their insolencies, ambition, and avarice. Written for the satisfaction and incouragement of all such as have not already been convinst of their perfidious dealings. With allowance,</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48499</idno><idno type="EEBO-CITATION">99828413</idno>
+  <idno type="VID">32840</idno>
+  <idno type="EEBO-PROQUEST">2248496945</idno>
+  
+            <idno type="STC">Wing L2218</idno>
+            <idno type="STC">ESTC R216691</idno>
+            <idno type="PROQUEST">99828413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828413e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1913:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dangerous condition of the United provinces prognosticated and plainly demonstrated, by Mr. William Lilly, in his observations of that comet which appeared in the year of our Lord, 1652. And published in his annual predictions in the year 1654, &amp;c. Together with some hints, and touches, of the most inhumane and unparaleld crueltyes committed by the Dutch upon our English-men at Amboyna, Polaroone, and Lantore in the East-Indies. With several proofs of their insolencies, ambition, and avarice. Written for the satisfaction and incouragement of all such as have not already been convinst of their perfidious dealings. With allowance,</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Whitwood at the signe of the Golden Bell in Duck-Lane near Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="topical_term">Comets --  Early works to 1800.</term>
+               <term type="topical_term">Dutch --  Indonesia --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32840:1"/>
+            <p>THE DANGEROUS Condition of the Vnited Provinces Prognosticated, And Plainly Demonstrated,</p>
+            <p>By Mr. William Lilly,</p>
+            <p>In his Observations of that Comet which appeared in the <hi>Year</hi> of our Lord, 1652. And published in his annual Predictions in the Year 1654, &amp;c.</p>
+            <p>Together with Some Hints, and Touches, of the most Inhumane and unparaleld Crueltyes Committed by the Dutch upon our English-men at <hi>Amboyna, Polaroone,</hi> and <hi>Lantore</hi> in the <hi>East-Indies.</hi> With Several proofs of their Insolencies, Ambition, and Avarice.</p>
+            <p>Written for the Satisfaction and Incouragement of all such as have not already been Convinst of their perfidious Dealings.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>W. Whitwood</hi> at the Signe of the Golden Bell in <hi>Duck-Lane</hi> near <hi>Smithfield.</hi> 1672.</p>
+            <pb facs="tcp:32840:2"/>
+            <pb facs="tcp:32840:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:32840:3"/>
+            <p>Ingratitude) Animated by the Indulgence and Friendship of our <hi>English</hi> Nation. From whom we might have ex<g ref="char:EOLhyphen"/>pected a better return for all our Civilities, then Treachery, and deceit, Cruelty and contempt.</p>
+            <p>But as it is evident that the time of their Destruction is near at hand, So we need not doubt but our Gracious <hi>King</hi> (by Gods assistance) will so farr abate their pride and haughtiness, as they shall be forced to return to their Pristine Obedience. And to make Satisfaction for all their Injuries and abuses, and once more to write themselves.</p>
+            <div type="part">
+               <head>The poor Distressed States of <hi>Holland.</hi>
+               </head>
+               <p>The sudden approach of their ruine is Set forth in Mr. <hi>Lilly's</hi> Astrological praedictions, in the <hi>Yeare</hi> 1654. Which he gathers from a Dreadful Comet which appeared from the 9th. of <hi>December</hi> 1652. Untill the latter end of that Month, not onely unto us in <hi>England,</hi> and <hi>Scotland,</hi> but also in <hi>Rome, Italy, Germany, Denmark, Holland, Zealand,</hi> and other of the United Provinces which it did cheifly Concern: <hi>Paracelsus</hi> the great <hi>Naturalist</hi> in his Eighth Book <hi>De Meteoris</hi> maintains thus much, That a Comet is not derived from any natural Cause, but it's beginning, and continuance, is performed by Angels, or Spirits, and that it portends usually some sudden mutation or evill at hand, or such like matter prejudicial to those Regions where it is visible.</p>
+               <p>Not onely the Devine Scriptures, (saith the Author) but also the Oracles of the Sybills, and of other prophetical Soules have left it recorded to posterity in their writings. That towards the last days or times, their should be more frequent apparitions in the Aire, more Comets, more blaz<g ref="char:EOLhyphen"/>ing Starrs, more Omnions, and frequent Eclipses, <hi>&amp;c.</hi>
+                  <pb n="3" facs="tcp:32840:3"/> Those transcendent, <hi>Catastrophes,</hi> Revolutions of States, Monarchies, Kingdoms, Common-wealths which then, <hi>viz.</hi> 1672. Shall be on foot in Europe, shall give cause of Ad<g ref="char:EOLhyphen"/>miration unto the whole world.</p>
+               <p>But to tell you more perticularly what Influence this late dreadful Comet may have upon the United Provinces, you may take it in Mr. <hi>Lilly's</hi> own words as followeth.</p>
+               <p>
+                  <hi>Some in Engl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bserved dispersed Haires near unto the Comet tending towards the East, not much unlike to the nature or form of a Tayle, or as it appeard in Scotland; Twice my selfe observed it so: But of that when I speak of it's Effects;</hi>
+               </p>
+               <p>
+                  <hi>For those Haires doe signifie,</hi> Praelia in locum ad quem tendunt, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Warr unto that place to which they Incline or tend.</hi>
+               </p>
+               <p>
+                  <hi>Then</hi> (saith he) <hi>Let the Dutch towards whom the Tayle pointed, in time beware, for a most bitter Portion of vengeance is drawing near to them, And ready to fall further upon them, and their People in all parts of the world.</hi> And as they have been Instruments in occasioning Covertly or openly the Spilling most part of that Blood which hath been Shed in Europe for this 34 <hi>Yeares.</hi> So is there a vial of wrath brimfull to be powred amongst them.</p>
+               <p>In another place of that Yeares Predictions, (he saith,) <hi>That Zealand, and Holland, and the Ʋnited Provinces es<g ref="char:EOLhyphen"/>pecially <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Brill, The Texel, or that part of those Provinc<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hich lye North-East from Yarmouth are La<g ref="char:EOLhyphen"/>mentably to Suffer. The Hollanders by decay of Trade, Intestine Devisions, Losses at Sea, Tumults, Mortality of People, Irruption of Sea Banks, and without a present amend<g ref="char:EOLhyphen"/>ment, A Forreigner Shall enter even into the Hague, and into Amsterdam it selfe, before</hi> 1672, <hi>be over.</hi>
+               </p>
+               <p>Now if there be any truth in Astrology (as undoubted there is) you will conclude, that the pride of these <hi>Hogen
+<pb n="4" facs="tcp:32840:4"/> Mogens</hi> must necessarily ere long be tumbled in the Dirt, for if we doe but consider, His Majesties undoubted right and propriety on the Brittish Seas, and weigh their Pro<g ref="char:EOLhyphen"/>vocations and abuses to stirr us up to a War, It cannot be Imagined that such Insolency should go unpunished, but that they should be made to know them, who have often Protected them.</p>
+               <p>It would make any Christians heart to bleed at the per<g ref="char:EOLhyphen"/>usal of those Lamentable Cruelties which their Predecessors like Bloody Butchers used towards our English at <hi>Amboyna, Poleroone,</hi> and <hi>Lantore</hi> in the East Indies, Their taking of the same <hi>Islands</hi> by force; The razing and demolishing of the English Forts, The binding of the English (that had not so much as resisted them) to stakes, with ropes about their necks, throtling them with the same and Flou<g ref="char:EOLhyphen"/>rishing their naked Swords about them as if they would have dispatched them; then takeing them so amazed and bound and tumbling them downe the Rocks; And after-afterwards carrying their Crushed and Bruised Carkases away in Irons, They have whipped them at the post, In the open Market place, and having washt their torn and wounded Bodies, with Vinegar and Salt, they have again doubled their Scourges to multiply their Torments, And at the last have cut them asunder in the middle with Swords or else devised some other strange or unheard of merciless death. At the taking of <hi>Lantore,</hi> The English being but few in number they were tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> saluted with the Titles of base Rogues, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, They were bound unto po<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s by hands and neck, they were bruised, beaten, and buffetted they were afterwards tyed back to back, and so the stronger was forced to carry the weaker, to the Dutch Ships, where they were Laden with Irons, and tormented with variety of tortures.</p>
+               <p>Many dayes were they thus tormented and some of them being most sadly troubled with the Flux.</p>
+               <pb n="6" facs="tcp:32840:4"/>
+               <p>These unmerciful People would not let them out of their Bolts, but compell'd them to use the same dish to receive their ex<g ref="char:EOLhyphen"/>crements in which all of them did constantly eat their Meat.</p>
+               <p>I need not to inlarge upon the rest of their unparaleld and unheard off Crueltys, as well in the <hi>West-Indies,</hi> as the <hi>East-Indies:</hi> For I suppose these which I have already repeated may be sufficient to satisfie the World that the Blood of those Innocent Creatures, cannot chuse but cry loud in the Ears of Almighty God, and call down for Judgments upon such Detestable Wretches.</p>
+               <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d now is the time that these Imperious Braggadocio's must give <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>count for all that's past and gone, for by the Prognostica<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> most famous <hi>Astrologers.</hi> The time draws nigh that will <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riod to their greatness.</p>
+               <q>
+                  <l>The Dutch e're long, will have a Fall,</l>
+                  <l>The weakest needs must go to the Will.</l>
+               </q>
+               <p>Let them but consider, if they be not threatned with ine<g ref="char:EOLhyphen"/>vitable Ruine, on all sides; both by Sea, and Land, and then let them but think how they can escape Divine Justice.</p>
+               <p>We have great reason to hope that his Majesties Navall Forces, under the Royal Conduct of his Highnes, the Duke of York: will manage their business with so good success, as may prove for the good of our King and Kingdome. To the great discouragement and disheartning of all such as are Foes to the <hi>English</hi> Nation, whom we trust the Lord will prosper in all their just Designs, and Noble Endeavours.</p>
+               <p>And <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for incouragement, to Seamen, and Souldiers, let not any <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hearted <hi>Englishman,</hi> be daunted, or dismaid; at the frothy Vapours of these boasting <hi>Bogglanders,</hi> for you see that both Prophesies, and Praedictions; and the very Heavens themselves doe presage their Ruine and Destruction. Their Friends have forsaken them, and Potent Enemies will now assail them, So that being Threatned on all sides, they
+<pb n="7" facs="tcp:32840:5"/> cannot possibly defend themselves; but must by Conse<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> submit to his Majesty of Great <hi>BRITTAIN▪</hi> whom they have so gros<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly and so ingratefully offended▪</p>
+               <q>
+                  <l>And now for to Conclude this present Story,</l>
+                  <l>I dare be bold to speak for <hi>Englands</hi> Glory:</l>
+                  <l>A Braever Fl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sail'd upon the Main,</l>
+                  <l>Then is set forth to fight the <hi>Dutch</hi> again,</l>
+                  <l>Our roaring G<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, shall teach <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for to know,</l>
+                  <l>What Homage they to <hi>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ttain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>▪</hi> King do o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Whil'st <hi>Fran<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Monarch doth them rough <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Ʋpon the other side, with Courage great</l>
+                  <l>Y<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> about y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Dutch,</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Fates</l>
+                  <l>Will make you s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o be <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tressed States.</l>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32840:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
